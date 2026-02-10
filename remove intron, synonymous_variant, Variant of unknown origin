@@ -1,0 +1,2 @@
+grep -v "p.?" Cosmic_GenomeScreensMutant_v102_GRCh38.tsv > nointron.tsv
+grep -v "synonymous_variant" Cosmic_GenomeScreensMutant_v102_GRCh38.tsv > nointron.tsv
